@@ -1,0 +1,71 @@
+*{margin:0; padding: 0;}
+
+
+body {
+ 
+ font-family: Verdana;
+
+
+
+ 
+ }
+
+a:link		
+ 
+   {
+ 
+color: #725923; text-decoration: none
+
+}
+
+a:visited	
+
+   {
+
+color: #55421a; text-decoration: none
+
+}
+
+a:hover		
+ 
+  {
+
+color: #000000; 
+background: #d5cbed;
+background-image: none;
+text-decoration: underline overline;
+
+}
+
+a:active	{
+
+color: #ffe69b;
+
+}
+
+
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 13:31:42 Oct 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:13:43 Jan 19, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 69.416
+  exclusion.robots: 0.1
+  exclusion.robots.policy: 0.088
+  cdx.remote: 0.072
+  esindex: 0.012
+  LoadShardBlock: 34.093 (3)
+  PetaboxLoader3.datanode: 63.599 (5)
+  load_resource: 185.774 (2)
+  PetaboxLoader3.resolve: 67.146 (2)
+*/

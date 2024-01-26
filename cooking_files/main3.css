@@ -1,0 +1,178 @@
+/*
+      Created by Keith Donegan of Code-Sucks.com
+	  
+	  E-Mail: Keithdonegan@gmail.com
+	  
+	  You can do whatever you want with these layouts,
+	  but it would be greatly appreciated if you gave a link
+	  back to http://www.code-sucks.com
+	  
+*/
+
+* { padding: 0; margin: 0; }
+
+body {
+ background-position : center 0%;
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/gfx5.jpg);
+ background-attachment : fixed;
+ 
+ font-family: verdana, Helvetica, sans-serif;
+ font-size: 14px;
+}
+
+#wrapper { 
+ margin: 0 auto;
+ width: 780px;
+}
+#faux {
+ 
+ margin-bottom: 0px;
+ overflow: auto; /* Paul O Brien Fix for IE www.pmob.co.uk */
+ width: 100%
+}
+#header {
+
+ background-position : center 0%;
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/logo780.jpg);
+ 
+ width: 780px;
+ padding: 0px;
+ height: 160px;
+ margin: 0px 0px 0px 0px;
+ 
+}
+#navigation {
+ padding: 0px;
+ margin: 0px 0px 0px 0px;
+ 
+}
+#left { 
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/tlo12.jpg);
+ display: inline;
+ margin: 0px;
+ padding: 0px;
+ width: 140px;
+ float: left;
+ 
+}
+#content { 
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/tlo12.jpg);
+ float: left;
+ margin: 5px;
+ padding: 5px 5px;
+ width: 479px;
+ display: inline;
+ position: relative; 
+ border: 1px solid black;
+ text-align:center;
+ font-size: 12px;
+ }
+#right { 
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/tlo12.jpg);
+ display: inline;
+ position: relative;
+ color: #333;
+ margin: 0px;
+ padding: 0px;
+ width: 137px;
+ float: right; 
+ border: 1px solid black;
+ border-bottom-width: 0px;
+ text-align:center;
+}
+#footer { 
+ background-image : url(/web/20161030133240im_/http://neverlands-library.com/gfx/tlo12.jpg);
+ width: 758px;
+ clear: both;
+ color: #333;
+ margin: 0px 0px 10px 0px;
+ padding: 10px;
+ border: 1px solid black;
+ text-align:center;
+ font-size: 10px;
+}
+
+
+
+
+
+
+
+/*MENU */
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+#ddblueblockmenu{
+border: 1px solid black;
+border-bottom-width: 0;
+width: 140px;
+}
+
+#ddblueblockmenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+font: bald bold 60% 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+}
+
+#ddblueblockmenu li a{
+display: block;
+
+width: 140px; /*185px minus all left/right paddings and margins*/
+text-decoration: none;
+color: #6b5128;
+background-color: back;
+border-bottom: 1px solid #725923;
+
+}
+
+* html #ddblueblockmenu li a{ /*IE only */
+width: 140px; /*IE 5*/
+width: 135x; /*185px minus all left/right paddings and margins*/
+}
+
+#ddblueblockmenu li a:hover {
+background-color: #d5cbed;
+border-left-color: #000000;
+color: #000000;
+}
+
+#ddblueblockmenu div.menutitle{
+color: #fff000;
+border-bottom: 1px solid black;
+
+background-color: black;
+font: bold 90% 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+}
+
+
+
+#ddblack{
+border: 1px solid black;
+background-color: black;
+font: bold 90% 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+color: #fff000;
+width: auto;
+}
+
+.clear { clear: both; background: none; }
+/*
+     FILE ARCHIVED ON 13:32:40 Oct 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:39:23 Jan 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 110.317
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.08
+  cdx.remote: 0.07
+  esindex: 0.009
+  LoadShardBlock: 78.043 (3)
+  PetaboxLoader3.datanode: 150.044 (5)
+  load_resource: 373.985 (2)
+  PetaboxLoader3.resolve: 260.629 (2)
+*/

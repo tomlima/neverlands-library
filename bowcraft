@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta name="Description" content="Unofficial fan site of Neverlands - Ultima Online POL Shard, unique features, scripts, quests, items, oldschool pvp, international player base and much more, come and join us!">
+		<meta name="keywords" content="ultima,online,automap,uoassiast,uo,shard,free,neverlands,pol,emulator,library"/> 
+		<meta http-equiv="Content-Language" content="en"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="Copyright" content="&copy; by Tom, All rights reserved.">
+		<META NAME="Author" CONTENT="Tom Lima">
+		<title>Neverlands Library - Unofficial fan site</title>
+		<link rel="shortcut icon" type="image/x-icon" href="ico.gif">
+		<link rel="stylesheet" href="main3.css" type="text/css">
+		
+		</head>
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-H4ZYYY18KR"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'G-H4ZYYY18KR');
+		</script>
+
+<body>
+
+   <!-- Begin Wrapper -->
+   <div id="wrapper">
+   
+         <!-- Begin Header -->
+         <div id="header">
+		 
+		       	 
+			   
+		 </div>
+		 <!-- End Header -->
+		 
+		 <!-- Begin Navigation -->
+         <div id="navigation">
+		 
+		        
+			   
+		 </div>
+		 <!-- End Navigation -->
+		 
+         <!-- Begin Faux Columns -->
+		 <div id="faux">
+		 
+		       <!-- Begin Left Column -->
+		       <div id="left">
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 <div id="ddblueblockmenu">
+
+			<div class="menutitle"><center>MAIN</center></div>
+            <ul>
+              <li><a href="/downloads">Downloads</a></li>
+              <li><a href="/links">Links</a></li>
+              <li><a href="/mounts">Special Mounts</a></li>
+              <li><a href="/news">News</a></li>
+            </ul>
+
+            <div class="menutitle"><center>SKILLS</center></div>
+            <ul>
+              <li><a href="/miscellaneous">Miscellaneous</a></li>
+              <li><a href="/combatskills">Combat Ratings</a></li>
+              <li><a href="/actionskills">Actions</a></li>
+              <li><a href="/loreskills">Lore & Knowledge</a></li>
+            </ul>
+
+            <div class="menutitle"><center>ITEMS</center></div>
+            <ul>
+              <li><a href="/credits">Credits</a></li>
+              <li><a href="/ingots">Ingots/Ores</a></li>
+              <li><a href="/logs">Logs</a></li>
+              <li><a href="/magic">Magic Items</a></li>
+              <li><a href="/cards">Monster Cards</a></li>
+              <li><a href="/loot">Monster Loot/Rares</a></li>
+              <li><a href="/statues">Monster Statues</a></li>
+              <li><a href="/sa">Stealable Artifacts</a></li>
+              <li><a href="/treasure">Treasure Rares</a></li>
+            </ul>
+
+            <div class="menutitle"><center>QUESTS</center></div>
+            <ul>
+              <li><a href="/champion">Champion Spawn</a></li>
+              <li><a href="/merchant">Merchant Quest</a></li>
+              <li><a href="/slayer">Slayer Quest</a></li>
+            </ul>
+
+            <div class="menutitle"><center>HELP</center></div>
+            <ul>
+              <li><a href="/brokenrares">Broken Rares</a></li>
+              <li><a href="#">Commands</a></li>
+              <li><a href="/howtostart">How to start</a></li>
+              <li>
+                <a href="#" style="border-bottom-color: black">Karma & Fame</a>
+              </li>
+              <li>
+                <a href="/priceguide" style="border-bottom-color: black"
+                  >Price Guide</a
+                >
+              </li>
+              <li>
+                <a href="/stats" style="border-bottom-color: black"
+                  >Skill/Stat Cap</a
+                >
+              </li>
+              <li><a href="/thunting">T-Hunting Guide</a></li>
+            </ul>
+            <br />
+            <br />
+          </div>
+        </div>
+		       <!-- End Left Column -->
+		 
+		       <!-- Begin Content Column -->
+		       <div id="content">
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link rel="stylesheet" href="../../../../main0.css" type="text/css" />
+
+</head>
+
+<body bgcolor="#e8d49c"><br>
+<h4><center>BOWCRAFT/FLETCHING</center></h4>
+<br>
+<center>
+
+<table cellspacing="5">
+<tr>
+    <td colspan="2" align="left"><b>Trainable by:</b></td>
+	<td align="left">Bowyer</td>
+</tr>
+<tr>    
+	<td colspan="2" align="left"><b>Difficulty of training:</b></td>
+	<td align="left">high</td>
+</tr>
+<tr>    
+	<td colspan="2" align="left"><b>Better gain:</b></td>
+	<td align="left">with jewel</td>
+</tr>
+<tr>
+    <td colspan="2" align="left"><b>Used Materials:</b></td>
+	<td align="left">Featchers, boards/logs</td>
+</tr>
+<tr>
+  	<td colspan="2" align="left"><b>Used Stats:</b></td>
+	<td align="left">Strength, Dexterity</td>
+</tr>
+<tr>   
+	<td colspan="2" align="left"><b>Used Tools:</b></td>
+	<td align="left">Dagger</td>
+</tr>
+<tr>
+   	<td colspan="2" align="left"><b>Title of the skill:</b></td>
+	<td align="left">Bowyer</td>
+</tr>
+<tr>
+   	<td colspan="2" align="left"><b>Delay:</b></td>
+	<td align="left">none</td>
+</tr>
+</table>
+</center>
+<br><br>
+
+Bowcrafting skill is for crafting Bows/Crossbows and amunition for them, the skill might be handly to supply <a href="/archery">Archers</a>. To make Arrows/Bolts you need Boards/Logs and Feathers, every bird drops Feathers but Harpies are the best to collect them, they drop 50 Feathers. There is one nice spawn where 5 Harpies spawn pretty quick, on way from Britain to Minoc (X=1866 Y=1203).<br><br>
+
+<b>Note:</b> be carefull with making Shafts, because if you target for example 10k of boards and chose Shaft to make, all boards will be turned into Shaft without any asking how many you want, to prevent this separate your boards/logs before.
+
+<br><br>
+Check also:<br><br>
+ <a href="/merchant">Merchant Quest</a><br>
+  <a href="/lumberjacking">Lumberjacking</a><br><br>
+
+
+
+<br><br>
+<h4><center>ITEMS LIST</center></h4><br>
+<center>
+<table cellspacing="5"
+border="0">
+
+<tr>
+<td colspan="2" align="center"><b>Item Name</b></td>
+<td align="center"><b>Required<br>Skill</b></td>
+<td align="center"><b>Required<br>Materials</b></td>
+</tr>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/shaft.gif"/></td>
+<td align="left">Shaft</td>
+<td align="center">0%</td>
+<td>1 Board/Log</td>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/arrow.gif"/></td>
+<td align="left">Arrow</td>
+<td align="center">0%</td>
+<td>1 Feather, 1 Shaft</td>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/crossbow_bolt.gif"/></td>
+<td align="left">Crossbow Bolt</td>
+<td align="center">0%</td>
+<td>1 Feather, 1 Shaft</td>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/bow.gif"/></td>
+<td align="left">Bow</td>
+<td align="center">30%</td>
+<td>7 Boards/Logs</td>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/crossbow.gif"/></td>
+<td align="left">Crossbow</td>
+<td align="center">60%</td>
+<td>7 Boards/Logs</td>
+</tr>
+<tr>
+<td><img src="../../../../gfx/skills/heavy_crossbow.gif"/></td>
+<td align="left">Heavy Crossbow</td>
+<td align="center">80%</td>
+<td>10 Boards/Logs</td>
+</tr>
+</table>
+</center>
+<br>
+<h4><center>HOW TO TRAIN</center></h4><br>
+<center>
+<table cellspacing="10">
+<tr>
+<td align="left">0-33%</td>
+<td align="left">Vendor Train</td>
+</tr>
+<tr>
+<td align="left">33-60%</td>
+<td align="left">Bows</td>
+</tr>
+<tr>
+<td align="left">60-85%</td>
+<td align="left">Crossbows</td>
+</tr>
+<tr>
+<td align="left">85-100%</td>
+<td align="left">Heavy Crossbows</td>
+</tr>
+</table>
+</center>
+<br>
+<center>
+<a href="javascript:history.back()">Back</a>
+</center>
+</body>
+</html>
+
+				   		  
+		       </div>
+		       <!-- End Content Column -->
+			   
+			   
+			   
+			   <!-- Begin Right Column -->
+		       <div id="right"><div id="ddblack" class="menutitle"><center>OTHER</center></div>
+		 <br>
+		 
+		 <a href="#"><img alt="Spanish" border="0" src="gfx/spain1.gif"/></a>
+		 <img alt="English" border="0" src="gfx/uk1.gif"/>
+		 <a href="#"><img alt="Polish" border="0" src="gfx/pol1.gif"/></a><br>
+
+		 
+		 
+		 
+		 
+		 
+		 
+		             <a href="mailto:tom@tomlima.me"><img alt="send email" border="0" src="mail.png"/></a>
+		             <script type="text/javascript">
+// <![CDATA[
+var adres = 'www.neverlands-library.com';
+var tytul = 'Neverlands Library';
+var ulubione = '<img alt="add to favorites" border="0" src="fav.png"/>';
+var startowa = '<img alt="set as start page" border="0" src="home.png"/>';
+var szablon = '{ULUBIONE}{STARTOWA}'
+
+if (adres.toLowerCase().indexOf('http://') != 0) adres = 'http://' + adres;
+var przegladarka = navigator.userAgent;
+var ie_ver = 0;
+if (przegladarka.indexOf("MSIE") != -1 && przegladarka.indexOf(") ") == -1) ie_ver = parseInt(przegladarka.substring(przegladarka.indexOf("MSIE")+5));
+if (ie_ver >= 4) document.write(szablon.replace(/\{ULUBIONE\}/, '<a href="javascript:void(0)" title="Dodaj stron� do ulubionych" onclick="window.external.addFavorite(\'' + adres + '\', \'' + tytul + '\'); return false" onmouseover="window.status=\'Dodaj stron� do ulubionych\'; return true" onmouseout="window.status=\'\'; return true">' + ulubione + '<'+'/a>').replace(/\{STARTOWA\}/, '<a href="javascript:void(0)" title="Ustaw stron� jako startow�" onclick="this.style.behavior=\'url(#default#homepage)\'; this.setHomePage(\'' + adres + '\'); return false" onmouseover="window.status=\'Ustaw stron� jako startow�\'; return true" onmouseout="window.status=\'\'; return true">' + startowa + '<'+'/a>'));
+// ]]>
+</script><br>
+
+         
+
+
+<br>
+<center><h5>Random Screenshot</h5></center><br>
+<script>// <![CDATA[
+Array.prototype.random = function(limit){
+	if (typeof limit == 'undefined' || limit < 0) limit = 1;
+	else if (!limit) limit = this.length;
+	for (var i = 0, source = this, target = new Array(), n = source.length; i < limit && n > 0; i++)
+	{
+		do { var index = Math.random(); } while (index == 1);
+		index = Math.floor(index * n);
+		target.push(source[index]);
+		source[index] = source[--n];
+	}
+	return target;
+}
+
+document.write(new Array(
+
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand60.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/astral.jpg"><img border="0" src="../../../../gfx/gallery/houses/astral0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/bear.jpg"><img border="0" src="../../../../gfx/gallery/houses/bear0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/cubo.jpg"><img border="0" src="../../../../gfx/gallery/houses/cubo0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/decapitator.jpg"><img border="0" src="../../../../gfx/gallery/houses/decapitator0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/brickbasementex.jpg"><img border="0" src="../../../../gfx/gallery/houses/brickbasementex0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/kalan.jpg"><img border="0" src="../../../../gfx/gallery/houses/kalan0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/pharoxx.jpg"><img border="0" src="../../../../gfx/gallery/houses/pharoxx0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/sherox.jpg"><img border="0" src="../../../../gfx/gallery/houses/sherox0.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-7.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-70.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-6.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf1.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf2.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf3.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf4.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf5.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf6.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm1.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm2.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm3.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm4.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm5.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm6.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm11.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm12.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm13.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm14.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm15.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm150.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm16.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm160.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm17.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm170.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm18.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm180.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm19.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm190.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm9.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting1.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting2.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting3.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting4.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting5.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting7.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting70.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting8.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting80.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting9.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting11.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting12.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting13.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting14.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp1.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp2.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp3.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp4.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp24.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp240.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp6.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp11.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp12.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp13.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp14.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp15.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp150.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp16.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp160.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp17.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp170.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp18.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp180.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp19.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp190.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp9.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp21.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp210.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp22.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp220.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp25.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp250.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp26.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp260.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp27.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp270.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp28.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp280.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp29.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp290.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp31.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp310.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess1.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess2.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess3.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess4.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess5.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess6.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-1.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-2.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-3.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-4.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-5.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-6.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w1.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w2.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w3.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w4.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w5.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w6.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape2.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape4.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape6.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape7.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape70.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape8.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape80.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape9.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-7.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-70.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-8.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-80.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle1.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2dol.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle2dol0.jpg"/></a>'
+).random().join(''));
+// ]]>
+</script>	
+				<br><br><center><h5>Hot Links</h5></center><br>	
+				
+	
+					<a target="_blank" href="http://www.gtop100.com/in.php?site=39985" title="Top 100 Ultima Online sites">
+
+							<img src="http://www.gtop100.com/images/votebutton.jpg" alt="Top 100 Ultima Online sites" />
+						</a>
+
+
+<br><br>
+	
+		<center><table>
+		<tr>
+		<td align="center"><h5>Hot Links</h5><br></td>
+		</tr>
+                <tr><td align="left"><a href="../../../download/neverlands_reborn_2.5.exe"><b>NL Reborn Pack</b></a></td></tr>
+		<tr><td align="left"><a href="../../../download/uoloop.exe">UO Loop</a></td></tr>		
+		<tr><td align="left"><a href="../../../download/desktops/dwarf_desktop_v1.2.zip">Dwarf Desktop</a></td></tr>
+		<tr><td align="left"><a href="../../../download/uoam.rar">Automap</a></td></tr>
+		</table></center><br><br>
+         </div>	   
+         <!-- End Faux Columns --> 
+
+         <!-- Begin Footer -->
+         <div id="footer">
+		       
+              <center>Project and design by Mazi Copyright 2008. All rights reserved.</center>
+      
+         </div>
+		 <!-- End Footer -->
+		 
+   </div>
+   <!-- End Wrapper -->
+</body>
+</html>

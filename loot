@@ -1,0 +1,1735 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta
+		  name="Description"
+		  content="Unofficial fan site of Neverlands - Ultima Online POL Shard, unique features, scripts, quests, items, oldschool pvp, international player base and much more, come and join us!"
+		/>
+		<meta
+		  name="keywords"
+		  content="ultima,online,automap,uoassiast,uo,shard,free,neverlands,pol,emulator,library"
+		/>
+		<meta http-equiv="Content-Language" content="en" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta name="Copyright" content="&copy; by Tom, All rights reserved." />
+		<META NAME="Author" CONTENT="Tom Lima" />
+		<title>Neverlands Library - Unofficial fan site</title>
+		<link rel="shortcut icon" type="image/x-icon" href="ico.gif" />
+		<link rel="stylesheet" href="main3.css" type="text/css" />
+	  </head>
+	
+	  <!-- Google tag (gtag.js) -->
+	  <script
+		async
+		src="https://www.googletagmanager.com/gtag/js?id=G-H4ZYYY18KR"
+	  ></script>
+	  <script>
+		window.dataLayer = window.dataLayer || []
+		function gtag() {
+		  dataLayer.push(arguments)
+		}
+		gtag('js', new Date())
+	
+		gtag('config', 'G-H4ZYYY18KR')
+	  </script>
+
+<body>
+
+   <!-- Begin Wrapper -->
+   <div id="wrapper">
+   
+         <!-- Begin Header -->
+         <div id="header">
+		 
+		       	 
+			   
+		 </div>
+		 <!-- End Header -->
+		 
+		 <!-- Begin Navigation -->
+         <div id="navigation">
+		 
+		        
+			   
+		 </div>
+		 <!-- End Navigation -->
+		 
+         <!-- Begin Faux Columns -->
+		 <div id="faux">
+		 
+		       <!-- Begin Left Column -->
+		       <div id="left">
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 <div id="ddblueblockmenu">
+
+			<div class="menutitle"><center>MAIN</center></div>
+            <ul>
+              <li><a href="/downloads">Downloads</a></li>
+              <li><a href="/links">Links</a></li>
+              <li><a href="/mounts">Special Mounts</a></li>
+              <li><a href="/news">News</a></li>
+            </ul>
+
+            <div class="menutitle"><center>SKILLS</center></div>
+            <ul>
+              <li><a href="/miscellaneous">Miscellaneous</a></li>
+              <li><a href="/combatskills">Combat Ratings</a></li>
+              <li><a href="/actionskills">Actions</a></li>
+              <li><a href="/loreskills">Lore & Knowledge</a></li>
+            </ul>
+
+            <div class="menutitle"><center>ITEMS</center></div>
+            <ul>
+              <li><a href="/credits">Credits</a></li>
+              <li><a href="/ingots">Ingots/Ores</a></li>
+              <li><a href="/logs">Logs</a></li>
+              <li><a href="/magic">Magic Items</a></li>
+              <li><a href="/cards">Monster Cards</a></li>
+              <li><a href="/loot">Monster Loot/Rares</a></li>
+              <li><a href="/statues">Monster Statues</a></li>
+              <li><a href="/sa">Stealable Artifacts</a></li>
+              <li><a href="/treasure">Treasure Rares</a></li>
+            </ul>
+
+            <div class="menutitle"><center>QUESTS</center></div>
+            <ul>
+              <li><a href="/champion">Champion Spawn</a></li>
+              <li><a href="/merchant">Merchant Quest</a></li>
+              <li><a href="/slayer">Slayer Quest</a></li>
+            </ul>
+
+            <div class="menutitle"><center>HELP</center></div>
+            <ul>
+              <li><a href="/brokenrares">Broken Rares</a></li>
+              <li><a href="#">Commands</a></li>
+              <li><a href="/howtostart">How to start</a></li>
+              <li>
+                <a href="#" style="border-bottom-color: black">Karma & Fame</a>
+              </li>
+              <li>
+                <a href="/priceguide" style="border-bottom-color: black"
+                  >Price Guide</a
+                >
+              </li>
+              <li>
+                <a href="/stats" style="border-bottom-color: black"
+                  >Skill/Stat Cap</a
+                >
+              </li>
+              <li><a href="/thunting">T-Hunting Guide</a></li>
+            </ul>
+            <br />
+            <br />
+          </div>
+        </div>
+		       <!-- End Left Column -->
+		 
+		       <!-- Begin Content Column -->
+		       <div id="content">
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link rel="stylesheet" href="../../../main0.css" type="text/css" />
+
+</head>
+
+<body bgcolor="#e8d49c"><br>
+<h4><center>SEMI RARES AND MONSTER LOOT</center></h4>
+<br>
+<center>
+<table cellspacing="10">
+<tr>
+<td>
+
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>Mage Armors:</b> All the armors below are <a href="/meditation">Meditable</a>, but in regular Bone Armor Meditation is somehow blocked(works much slower) so I suggest to do not train Meditation in the bone armor. Because we dont have bone gorgets, we are using leather instead, BloodStained, or made by Tailoring skill.
+
+Armor of specifit worn parts is different than or a full armor, all parts i tested were undamaged.
+
+
+</td>
+</tr>
+
+
+<tr>
+<td>
+
+<b>Gems:</b> We are using em to create magic jewelery, more details on Tinkering and Magic Items sections.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>Magic Jewelery:</b> When you identify em, the jewels will look the same as made by Tinkering skill. In the loot, you are able to find jewels up to +15% skill. More info on Magic Items and Tinkering sections.
+
+</td>
+</tr>
+
+
+<tr>
+<td>
+
+<b>Vampire Stones:</b> This name has been taken years ago, also at begin of NLR carrer those balls spawned on strong monsters such as deamons, dragons. Right now spawn of these balls is disabled, but the balls still extist.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>Other items:</b> Seeds can be planted on farms, from all types the most common are: Nightshade, Mandrake, Garlic and Ginseng. Balls with snowy scenes playing a melody everytime you click em. 
+
+</td>
+</tr>
+
+ 
+ <tr>
+<td>
+
+<b>Hides:</b> Possible to get by cutting a corpse of a monster. Hides are used for crafting Mage Armors by Tailoring.
+
+</td>
+</tr>
+ 
+ 
+ <tr>
+<td>
+
+<b>Check also:</b> <a href="/priceguide">Price Guide</a>. 
+
+</td>
+</tr>
+ 
+ 
+
+</table>
+</center>
+<br>
+<center>
+<table cellspacing="5">
+
+<tr>
+<td></td>
+</tr>
+
+</table>
+</center>
+
+<br>
+<center>
+<table cellspacing="5"
+border="0">
+
+<tr bgcolor="#fff297">
+<td colspan="5" align="center"><b>Mage Armors:</b>
+</td>
+</tr>
+
+
+<tr>
+<td colspan="5" align="center"><b>Bone Armor (21AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+
+<tr>
+<td><b>a Bone Helm</b></td>
+<td align="center"><img src="../../../gfx/loot/bone_helmet.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Skeleton, Zombie</td>
+</tr>
+
+
+<tr>
+<td><b>Bone Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/bone_armor.gif"/></td>
+<td align="center">10</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Skeleton, Zombie</td>
+</tr>
+
+<tr>
+<td><b>Bone Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/bone_leggings.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Skeleton, Zombie</td>
+</tr>
+
+<tr>
+<td><b>Bone Arms</b></td>
+<td align="center"><img src="../../../gfx/loot/bone_arms.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Skeleton, Zombie</td>
+</tr>
+
+<tr>
+<td><b>Bone Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/bone_gloves.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Skeleton, Zombie</td>
+</tr>
+
+
+
+<tr>
+<td colspan="5" align="center"><b>Vampire Bone (46AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a Vampire Bone Helm</b></td>
+<td align="center"><img src="../../../gfx/loot/vampire_bone_helmet.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ancient Vampire,<br>Nosferatu, MOD, <br>TChest 3-5lvl,<br> SOS Chest,<br> Dungeon Chest</td>
+</tr>
+
+
+<tr>
+<td><b>Vampire Bone Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/vampire_bone_tunic.gif"/></td>
+<td align="center">22</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ancient Vampire,<br>Nosferatu, MOD, <br>TChest 3-5lvl,<br> SOS Chest,<br> Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>Vampire Bone Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/vampire_bone_leggings.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ancient Vampire,<br>Nosferatu, MOD, <br>TChest 3-5lvl,<br> SOS Chest,<br> Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>Vampire Bone Arms</b></td>
+<td align="center"><img src="../../../gfx/loot/vampire_bone_arms.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ancient Vampire,<br>Nosferatu, MOD, <br>TChest 3-5lvl,<br> SOS Chest,<br> Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>Vampire Bone Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/vampire_bone_gloves.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ancient Vampire,<br>Nosferatu, <br>MOD, TChest 3-5lvl,<br> SOS Chest,<br> Dungeon Chest</td>
+</tr>
+
+
+
+<tr>
+<td colspan="5" align="center"><b>Deamon Bone(50AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a Deamon Bone Helm</b></td>
+<td align="center"><img src="../../../gfx/loot/deamon_bone_helmet.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Deamon,<br> Great Wyrm,<br> TChest 3-5lvl,<br>SOS Chest</td>
+</tr>
+
+
+<tr>
+<td><b>Deamon Bone Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/deamon_bone_tunic.gif"/></td>
+<td align="center">24</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Deamon,<br> Great Wyrm,<br> TChest 3-5lvl,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Deamon Bone Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/deamon_bone_leggings.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Deamon,<br> Great Wyrm,<br> TChest 3-5lvl,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Deamon Bone Arms</b></td>
+<td align="center"><img src="../../../gfx/loot/deamon_bone_arms.gif"/></td>
+<td align="center">7</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Deamon,<br> Great Wyrm,<br> TChest 3-5lvl,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Deamon Bone Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/deamon_bone_gloves.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Deamon,<br> Great Wyrm,<br> TChest 3-5lvl,<br>SOS Chest</td>
+</tr>
+
+
+<tr>
+<td colspan="5" align="center"><b>Balron Bone(55AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a Balron Bone Helm</b></td>
+<td align="center"><img src="../../../gfx/loot/balron_bone_helmet.gif"/></td>
+<td align="center">8</td>
+<td><img src="../../../gfx/star.gif"/></td>
+<td align="center">Balron, 5lvl Tchest,<br>SOS Chest</td>
+</tr>
+
+
+<tr>
+<td><b>Balron Bone Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/balron_bone_tunic.gif"/></td>
+<td align="center">26</td>
+<td><img src="../../../gfx/star.gif"/></td>
+<td align="center">Balron, 5lvl TChest,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Balron Bone Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/balron_bone_leggings.gif"/></td>
+<td align="center">8</td>
+<td><img src="../../../gfx/star.gif"/></td>
+<td align="center">Balron, 5lvl TChest,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Balron Bone Arms</b></td>
+<td align="center"><img src="../../../gfx/loot/balron_bone_arms.gif"/></td>
+<td align="center">8</td>
+<td><img src="../../../gfx/star.gif"/></td>
+<td align="center">Balron, 5lvl TChest,<br>SOS Chest</td>
+</tr>
+
+<tr>
+<td><b>Balron Bone Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/balron_bone_gloves.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/></td>
+<td align="center">Balron, 5lvl TChest,<br>SOS Chest</td>
+</tr>
+
+
+<tr>
+<td colspan="5" align="center"><b>BloodStained Leather(34AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Cap</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_cap.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_tunic.gif"/></td>
+<td align="center">17</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_leggings.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Sleeves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_sleeves.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_gloves.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+
+<tr>
+<td><b>a BloodStained Leather Gorget</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_gorget.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a BloodStained Leather Skirt</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_skirt.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Shorts</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_shorts.gif"/></td>
+<td align="center">3</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td colspan="5" align="center"><b>BloodStained Leather(34AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Cap</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_capg.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_tunicg.gif"/></td>
+<td align="center">17</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_leggingsg.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Sleeves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_sleevesg.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_glovesg.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+
+<tr>
+<td><b>a BloodStained Leather Gorget</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_gorgetg.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td colspan="5" align="center"><b>BloodStained Leather(34AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Cap</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_capb.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_tunicb.gif"/></td>
+<td align="center">17</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_leggingsb.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Sleeves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_sleevesb.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_glovesb.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+
+<tr>
+<td><b>a BloodStained Leather Gorget</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_gorgetb.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+
+
+
+<tr>
+<td colspan="5" align="center"><b>BloodStained Leather(34AR):</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>AR</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found in</b></td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Cap</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_capr.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a BloodStained Leather Tunic</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_tunicr.gif"/></td>
+<td align="center">17</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Leggings</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_leggingsr.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Sleeves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_sleevesr.gif"/></td>
+<td align="center">4</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>BloodStained Leather Gloves</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_glovesr.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+
+<tr>
+<td><b>a BloodStained Leather Gorget</b></td>
+<td align="center"><img src="../../../gfx/loot/blood_leather_gorgetr.gif"/></td>
+<td align="center">1</td>
+<td><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5" bgcolor="#fff297" align="center"><b>Bowls of food:</b>
+</td>
+</tr>
+
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td colspan="2" align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td><b>an empty bowl</b></td>
+<td align="center"><img src="../../../gfx/loot/wooden_bowl.gif"/><img src="../../../gfx/loot/pewter_bowl.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a bowl of peas</b></td>
+<td align="center"><img src="../../../gfx/loot/bowl_of_peas.gif"/><img src="../../../gfx/loot/bowl_of_peas2.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a bowl of corn</b></td>
+<td align="center"><img src="../../../gfx/loot/bowl_of_corn.gif"/><img src="../../../gfx/loot/bowl_of_corn2.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a bowl of carrots</b></td>
+<td align="center"><img src="../../../gfx/loot/bowl_of_carrots.gif"/><img src="../../../gfx/loot/bowl_of_carrots2.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a bowl of lettuce</b></td>
+<td align="center"><img src="../../../gfx/loot/bowl_of_lettuce.gif"/><img src="../../../gfx/loot/bowl_of_lettuce2.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a bowl of potatoes</b></td>
+<td align="center"><img src="../../../gfx/loot/bowl_of_potatoes.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>a large bowl</b></td>
+<td align="center"><img src="../../../gfx/loot/large_wooden_bowl.gif"/><img src="../../../gfx/loot/large_pewter_bowl.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>Tomato soup</b></td>
+<td align="center"><img src="../../../gfx/loot/tomato_soup.gif"/></td>
+<td colspan="2" align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+</table>
+<table>
+
+<tr>
+<td colspan="5" bgcolor="#fff297" align="center"><b>Gems:</b>
+</td>
+</tr>
+
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td colspan="2" align="center"><b>Drop rate</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td><b>a diamond</b></td>
+<td align="center"><img src="../../../gfx/loot/diamond.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td><b>an amber</b></td>
+<td align="center"><img src="../../../gfx/loot/amber.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a ruby</b></td>
+<td align="center"><img src="../../../gfx/loot/ruby.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+<tr>
+<td><b>a citrine</b></td>
+<td align="center"><img src="../../../gfx/loot/citrine.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+<tr>
+<td><b>an amethyst</b></td>
+<td align="center"><img src="../../../gfx/loot/amethyst.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+<tr>
+<td><b>a star sapphire</b></td>
+<td align="center"><img src="../../../gfx/loot/star_sapphire.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+<tr>
+<td><b>a sapphire</b></td>
+<td align="center"><img src="../../../gfx/loot/sapphire.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a tourmaline</b></td>
+<td align="center"><img src="../../../gfx/loot/tourmaline.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>an emerald</b></td>
+<td align="center"><img src="../../../gfx/loot/emerald.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Most of the mobs</td>
+</tr>
+
+
+<tr>
+<td colspan="5" bgcolor="#fff297" align="center"><b>Magic Jewelery:</b>
+</td>
+</tr>
+
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td colspan="2" align="center"><b>Drop ratio</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td><b>a magic silver necklace</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_silver_neck.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+
+<tr>
+<td><b>a magic gold necklace</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_gold_neck.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>a magic necklace</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_neck.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>a magic ring</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_ring.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>a magic bracelet</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_bracelet.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td><b>magic earrings</b></td>
+<td align="center"><img src="../../../gfx/loot/magic_earrings.gif"/></td>
+<td colspan="2" align="left"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td align="center">Ogre Lord, Liche Lord, Deamon, <br>TChest 3-5lvl , SOS Chest, Dungeon Chest</td>
+</tr>
+
+
+<tr>
+<td colspan="5" bgcolor="#fff297" align="center"><b>VAMPIRE STONES:</b>
+</td>
+</tr>
+
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td colspan="2" align="center"><b>Drop ratio</b></td>
+<td align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td><b>a Simple Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone3.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>a Rage Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone9.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>an Anger Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone4.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>a Pain Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone5.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>a Sorrow Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone6.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>a Vector Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone7.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td><b>a Cry Stone</b></td>
+<td align="center"><img src="../../../gfx/loot/virtue_stone8.gif"/></td>
+<td align="center" colspan="2" align="left"><img src="../../../gfx/star.gif"/></td>
+<td align="center"></td>
+</tr>
+
+
+
+
+</table>
+<table>
+
+<tr>
+<td colspan="5" bgcolor="#fff297" align="center"><b>Potted Plants:</b>
+</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>CACTUSES:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop rate</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+
+
+
+<tr>
+<td align="center"><b>Large Cactus<br>[1]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus4.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+
+<tr>
+<td align="center"><b>Large Cactus<br>[2]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Large Cactus<br>[3]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Large Cactus<br>[4]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus3.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Small Cactus<br>[1]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus6.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Small Cactus<br>[2]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_cactus5.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>TREES:</b>
+</td>
+</tr>
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td align="center"><b>Large Tree<br>[1]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_tree2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Large Tree<br>[2]</b></td>
+<td align="center"><img src="../../../gfx/loot/potted_tree.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>FLOWERS:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+
+<tr>
+<td align="center"><b>Large Flower<br>[1]</b></td>
+<td align="center"><img src="../../../gfx/loot/flowerpot.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Middle Flower<br>[2]</b></td>
+<td align="center"><img src="../../../gfx/loot/flowerpot3.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+
+<tr>
+<td align="center"><b>Small Flower<br>[3]</b></td>
+<td align="center"><img src="../../../gfx/loot/flowerpot2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>OTHER PLANTS:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop Ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+<tr>
+<td align="center"><b>Dried Flowers<br>[1]</b></td>
+<td align="center"><img src="../../../gfx/loot/dried_flowers.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dried Flowers<br>[2]</b></td>
+<td align="center"><img src="../../../gfx/loot/dried_flowers2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dried Herbs<br>[3]</b></td>
+<td align="center"><img src="../../../gfx/loot/dried_herbs.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dried Onions<br>[4]</b></td>
+<td align="center"><img src="../../../gfx/loot/dried_onions.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>a water lily<br>[5]</b></td>
+<td align="center"><img src="../../../gfx/loot/lilypad.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td align="center"><b>Orfluer Flowers<br>[6]</b></td>
+<td align="center"><img src="../../../gfx/loot/orfluer_flowers.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Deamon,<br> Great Wyrm, Liche Lord, TChest 3-5lvl, <br>SOS Chest, Dungeon Chest</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>TROPHY:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td align="center"><b>an orc trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/orc_trophy.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Orcs, Gorgyle,<br> Corpser</td>
+</tr>
+
+<tr>
+<td align="center"><b>a gorilla trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/gorilla_trophy.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Gorilla, Gorgyle,<br> Ent</td>
+</tr>
+
+<tr>
+<td align="center"><b>a deer trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/deer_trophy.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Deer, Gorgoyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>a brown bear trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/bear_trophy.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Brown Bear, Gorgyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>a polar bear trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/bear_trophy2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Polar Bear, Gorgoyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>a fish trophy<br></b></td>
+<td align="center"><img src="../../../gfx/loot/fish_trophy.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Gorgoyle,<br> Drake</td>
+</tr>
+
+<tr>
+<td colspan="5"align="center"><b>MASKS:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td align="center"><b>an orc mask<br></b></td>
+<td align="center"><img src="../../../gfx/loot/orc_mask.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Orcs, Gorgyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>an orc helm<br></b></td>
+<td align="center"><img src="../../../gfx/loot/orc_helm.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Orcs, Gorgyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>a tribal mask<br></b></td>
+<td align="center"><img src="../../../gfx/loot/tribal_mask.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Harpy</td>
+</tr>
+
+<tr>
+<td align="center"><b>a tribal mask<br></b></td>
+<td align="center"><img src="../../../gfx/loot/tribal_mask2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Gazer</td>
+</tr>
+
+<tr>
+<td align="center"><b>a deer mask<br></b></td>
+<td align="center"><img src="../../../gfx/loot/deer_mask.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Deer, Gorgyle,<br> Earth Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>a bear mask<br></b></td>
+<td align="center"><img src="../../../gfx/loot/bear_mask.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Deer, Gorgyle,<br> Earth Elemental</td>
+</tr>
+
+
+</table>
+<table>
+
+<tr>
+<td colspan="5"align="center"><b>OTHER:</b>
+</td>
+</tr>
+
+<tr bgcolor="#fff297">
+<td align="center"><b>Name</b></td>
+<td align="center"><b>Image</b></td>
+<td align="center"><b>Drop ratio</b></td>
+<td colspan="2" align="center"><b>Found on</b></td>
+</tr>
+
+<tr>
+<td align="center"><b><a href="/inscription">an arcane gem</a><br></b></td>
+<td align="center"><img src="../../../gfx/loot/arcade_gem.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ice Dungeon</td>
+</tr>
+
+<tr>
+<td align="center"><b><a href="/cooking">a recipe</a><br></b></td>
+<td align="center"><img src="../../../gfx/loot/recipe.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td align="center"><b>a seed<br></b></td>
+<td align="center"><img src="../../../gfx/loot/seed.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td align="center"><b>a skull with candle<br></b></td>
+<td align="center"><img src="../../../gfx/loot/skull_with_candle.gif"/><img src="../../../gfx/loot/skull_with_candle2.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Blood Elemental, Death Knight,<br>Poison Elemental</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dishing Stump<br></b></td>
+<td align="center"><img src="../../../gfx/loot/dishing_stump.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Death Knight<br> Elder Gazer</td>
+</tr>
+
+<tr>
+<td align="center"><b>iron stack<br></b></td>
+<td align="center"><img src="../../../gfx/loot/iron_ingots.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Ancient Vampire, Death Knight<br> Elder Gazer</td>
+</tr>
+
+<tr>
+<td align="center"><b>a snowy scene ball<br></b></td>
+<td align="center"><img src="../../../gfx/loot/crystal_ball.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Most of the mobs</td>
+</tr>
+
+<tr>
+<td align="center"><b>a ressurect skull<br></b></td>
+<td align="center"><img src="../../../gfx/loot/skull.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center">Great Wyrm, Elder Wyrm,<br>Neon Dragon</td>
+</tr>
+
+<tr>
+<td align="center"><b>a monster card<br></b></td>
+<td align="center"><img src="../../../gfx/loot/card.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center"><a href="/cards">selective mobs</a></td>
+</tr>
+<tr>
+<td align="center"><b>an animal card<br></b></td>
+<td align="center"><img src="../../../gfx/loot/card.gif"/></td>
+<td align="center"><img src="../../../gfx/star.gif"/></td>
+<td colspan="2" align="center"><a href="/cards">selective animals</a></td>
+</tr>
+
+
+<tr>
+<td colspan="5"align="center"><b>Hides:</b>
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#fff297" align="center"><b>Name</b>
+<td colspan="3" bgcolor="#fff297" align="center"><b>Image</b>
+<td bgcolor="#fff297" align="center"><b>Found in</b>
+</td>
+</tr>
+<tr>
+<td><b>Regular Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/regular_hide.gif"/></td>
+<td></td>
+<td>Most of the mobs</td>
+</tr>
+
+<tr>
+<td><b>a Blood Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/new.gif"/><br><img src="../../../gfx/loot/blood_hide.gif"/></td>
+<td></td>
+<td>Gargoyle</td>
+</tr>
+
+<tr>
+<td><b>a Sand Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/sand_hide.gif"/></td>
+<td></td>
+<td>Headless, Mongbat, Ettin, Troll, Orc</td>
+</tr>
+
+<tr>
+<td><b>an Olive Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/olivine_hide.gif"/></td>
+<td></td>
+<td>Titan</td>
+</tr>
+
+<tr>
+<td><b>a Dragon Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/dragon_hide.gif"/</td>
+<td></td>
+<td>Wyvern, White Wyrm,<br> Dragon</td>
+</tr>
+
+<tr>
+<td><b>an Azure Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/azure_hide.gif"/></td>
+<td></td>
+<td>Liches, Deamon, Drake,</td>
+</tr>
+
+<tr>
+<td><b>an Onyx Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/onyx_hide.gif"/></td>
+<td></td>
+<td>Sea Serpent, Gazer, Orc, Ogre, </td>
+</tr>
+
+<tr>
+<td><b>a Green Hide</b></td>
+<td colspan="2" align="center"><img src="../../../gfx/loot/green_hide.gif"/></td>
+<td></td>
+<td>Aligator, Lizardman</td>
+</tr>
+
+
+</tr>
+
+</table>
+</center>
+<br><br>
+<center>
+<a href="javascript:history.back()">Back</a>
+</center>
+</body>
+</html>
+
+				   		  
+		       </div>
+		       <!-- End Content Column -->
+			   
+			   
+			   
+			   <!-- Begin Right Column -->
+		       <div id="right"><div id="ddblack" class="menutitle"><center>OTHER</center></div>
+		 <br>
+		 
+		 <a href="#"><img alt="Spanish" border="0" src="gfx/spain1.gif"/></a>
+		 <img alt="English" border="0" src="gfx/uk1.gif"/>
+		 <a href="#"><img alt="Polish" border="0" src="gfx/pol1.gif"/></a><br>
+
+		 
+		 
+		 
+		 
+		 
+		 
+		             <a href="mailto:tom@tomlima.me"><img alt="send email" border="0" src="mail.png"/></a>
+		             <script type="text/javascript">
+// <![CDATA[
+var adres = 'www.neverlands-library.com';
+var tytul = 'Neverlands Library';
+var ulubione = '<img alt="add to favorites" border="0" src="fav.png"/>';
+var startowa = '<img alt="set as start page" border="0" src="home.png"/>';
+var szablon = '{ULUBIONE}{STARTOWA}'
+
+if (adres.toLowerCase().indexOf('http://') != 0) adres = 'http://' + adres;
+var przegladarka = navigator.userAgent;
+var ie_ver = 0;
+if (przegladarka.indexOf("MSIE") != -1 && przegladarka.indexOf(") ") == -1) ie_ver = parseInt(przegladarka.substring(przegladarka.indexOf("MSIE")+5));
+if (ie_ver >= 4) document.write(szablon.replace(/\{ULUBIONE\}/, '<a href="javascript:void(0)" title="Dodaj stron� do ulubionych" onclick="window.external.addFavorite(\'' + adres + '\', \'' + tytul + '\'); return false" onmouseover="window.status=\'Dodaj stron� do ulubionych\'; return true" onmouseout="window.status=\'\'; return true">' + ulubione + '<'+'/a>').replace(/\{STARTOWA\}/, '<a href="javascript:void(0)" title="Ustaw stron� jako startow�" onclick="this.style.behavior=\'url(#default#homepage)\'; this.setHomePage(\'' + adres + '\'); return false" onmouseover="window.status=\'Ustaw stron� jako startow�\'; return true" onmouseout="window.status=\'\'; return true">' + startowa + '<'+'/a>'));
+// ]]>
+</script><br>
+
+         
+
+
+<br>
+<center><h5>Random Screenshot</h5></center><br>
+<script>// <![CDATA[
+Array.prototype.random = function(limit){
+	if (typeof limit == 'undefined' || limit < 0) limit = 1;
+	else if (!limit) limit = this.length;
+	for (var i = 0, source = this, target = new Array(), n = source.length; i < limit && n > 0; i++)
+	{
+		do { var index = Math.random(); } while (index == 1);
+		index = Math.floor(index * n);
+		target.push(source[index]);
+		source[index] = source[--n];
+	}
+	return target;
+}
+
+document.write(new Array(
+
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand60.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/astral.jpg"><img border="0" src="../../../../gfx/gallery/houses/astral0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/bear.jpg"><img border="0" src="../../../../gfx/gallery/houses/bear0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/cubo.jpg"><img border="0" src="../../../../gfx/gallery/houses/cubo0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/decapitator.jpg"><img border="0" src="../../../../gfx/gallery/houses/decapitator0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/brickbasementex.jpg"><img border="0" src="../../../../gfx/gallery/houses/brickbasementex0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/kalan.jpg"><img border="0" src="../../../../gfx/gallery/houses/kalan0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/pharoxx.jpg"><img border="0" src="../../../../gfx/gallery/houses/pharoxx0.jpg"/></a>',
+'<a target="blank" href="../../../../gfx/gallery/houses/sherox.jpg"><img border="0" src="../../../../gfx/gallery/houses/sherox0.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-7.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-70.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-6.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf1.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf2.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf3.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf4.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf5.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf6.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm1.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm2.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm3.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm4.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm5.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm6.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm11.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm12.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm13.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm14.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm15.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm150.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm16.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm160.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm17.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm170.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm18.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm180.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm19.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm190.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm9.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting1.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting2.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting3.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting4.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting5.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting7.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting70.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting8.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting80.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting9.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting11.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting12.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting13.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting14.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp1.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp2.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp3.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp4.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp24.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp240.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp6.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp11.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp110.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp12.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp120.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp13.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp130.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp14.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp140.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp15.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp150.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp16.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp160.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp17.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp170.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp18.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp180.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp19.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp190.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp9.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp21.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp210.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp22.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp220.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp25.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp250.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp26.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp260.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp27.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp270.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp28.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp280.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp29.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp290.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp31.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp310.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-20.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-30.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-50.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-60.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-40.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess1.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess10.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess2.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess3.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess4.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess5.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess6.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-1.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-2.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-3.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-4.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-5.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-6.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w1.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w2.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w3.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w4.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w5.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w6.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape2.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape4.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape6.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape7.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape70.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape8.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape80.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape9.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape90.jpg"/></a>',
+'<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-7.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-70.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-8.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-80.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-40.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-50.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-60.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-30.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle1.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle10.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle20.jpg"/></a>','<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2dol.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle2dol0.jpg"/></a>'
+).random().join(''));
+// ]]>
+</script>	
+				<br><br><center><h5>Hot Links</h5></center><br>	
+		
+					<a target="_blank" href="http://www.gtop100.com/in.php?site=39985" title="Top 100 Ultima Online sites">
+
+							<img src="http://www.gtop100.com/images/votebutton.jpg" alt="Top 100 Ultima Online sites" />
+						</a>
+<br>
+
+		<br>
+		
+
+	
+		<center><table>
+		<tr>
+		<td align="center"><h5>Hot Links</h5><br></td>
+		</tr>
+                <tr><td align="left"><a href="../../../download/neverlands_reborn_2.5.exe"><b>NL Reborn Pack</b></a></td></tr>
+		<tr><td align="left"><a href="../../../download/uoloop.exe">UO Loop</a></td></tr>		
+		<tr><td align="left"><a href="../../../download/desktops/dwarf_desktop_v1.2.zip">Dwarf Desktop</a></td></tr>
+		<tr><td align="left"><a href="../../../download/uoam.rar">Automap</a></td></tr>
+		</table></center><br><br>
+         </div>	   
+         <!-- End Faux Columns --> 
+
+         <!-- Begin Footer -->
+         <div id="footer">
+		       
+              <center>Project and design by Mazi Copyright 2008. All rights reserved.</center>
+      
+         </div>
+		 <!-- End Footer -->
+		 
+   </div>
+   <!-- End Wrapper -->
+</body>
+</html>

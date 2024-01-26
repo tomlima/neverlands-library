@@ -1,0 +1,1738 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  ml xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta
+      name="Description"
+      content="Unofficial fan site of Neverlands - Ultima Online POL Shard, unique features, scripts, quests, items, oldschool pvp, international player base and much more, come and join us!"
+    />
+    <meta
+      name="keywords"
+      content="ultima,online,automap,uoassiast,uo,shard,free,neverlands,pol,emulator,library"
+    />
+    <meta http-equiv="Content-Language" content="en" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="Copyright" content="&copy; by Tom, All rights reserved." />
+    <META NAME="Author" CONTENT="Tom Lima" />
+    <title>Neverlands Library - Unofficial fan site</title>
+    <link rel="shortcut icon" type="image/x-icon" href="ico.gif" />
+    <link rel="stylesheet" href="main3.css" type="text/css" />
+  </head>
+
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-H4ZYYY18KR"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || []
+    function gtag() {
+      dataLayer.push(arguments)
+    }
+    gtag('js', new Date())
+
+    gtag('config', 'G-H4ZYYY18KR')
+  </script>
+
+  <body bgcolor="#e8d49c">
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+      <!-- Begin Header -->
+      <div id="header"></div>
+      <!-- End Header -->
+
+      <!-- Begin Navigation -->
+      <div id="navigation"></div>
+      <!-- End Navigation -->
+
+      <!-- Begin Faux Columns -->
+      <div id="faux">
+        <!-- Begin Left Column -->
+        <div id="left">
+          <div id="ddblueblockmenu">
+            <div class="menutitle"><center>MAIN</center></div>
+            <ul>
+              <li><a href="/downloads">Downloads</a></li>
+              <li><a href="/links">Links</a></li>
+              <li><a href="/mounts">Special Mounts</a></li>
+              <li><a href="/news">News</a></li>
+            </ul>
+
+            <div class="menutitle"><center>SKILLS</center></div>
+            <ul>
+              <li><a href="/miscellaneous">Miscellaneous</a></li>
+              <li><a href="/combatskills">Combat Ratings</a></li>
+              <li><a href="/actionskills">Actions</a></li>
+              <li><a href="/loreskills">Lore & Knowledge</a></li>
+            </ul>
+
+            <div class="menutitle"><center>ITEMS</center></div>
+            <ul>
+              <li><a href="/credits">Credits</a></li>
+              <li><a href="/ingots">Ingots/Ores</a></li>
+              <li><a href="/logs">Logs</a></li>
+              <li><a href="/magic">Magic Items</a></li>
+              <li><a href="/cards">Monster Cards</a></li>
+              <li><a href="/loot">Monster Loot/Rares</a></li>
+              <li><a href="/statues">Monster Statues</a></li>
+              <li><a href="/sa">Stealable Artifacts</a></li>
+              <li><a href="/treasure">Treasure Rares</a></li>
+            </ul>
+
+            <div class="menutitle"><center>QUESTS</center></div>
+            <ul>
+              <li><a href="/champion">Champion Spawn</a></li>
+              <li><a href="/merchant">Merchant Quest</a></li>
+              <li><a href="/slayer">Slayer Quest</a></li>
+            </ul>
+
+            <div class="menutitle"><center>HELP</center></div>
+            <ul>
+              <li><a href="/brokenrares">Broken Rares</a></li>
+              <li><a href="#">Commands</a></li>
+              <li><a href="/howtostart">How to start</a></li>
+              <li>
+                <a href="#" style="border-bottom-color: black">Karma & Fame</a>
+              </li>
+              <li>
+                <a href="/priceguide" style="border-bottom-color: black"
+                  >Price Guide</a
+                >
+              </li>
+              <li>
+                <a href="/stats" style="border-bottom-color: black"
+                  >Skill/Stat Cap</a
+                >
+              </li>
+              <li><a href="/thunting">T-Hunting Guide</a></li>
+            </ul>
+            <br />
+            <br />
+          </div>
+        </div>
+        <!-- End Left Column -->
+
+        <!-- Begin Content Column -->
+        <div id="content">
+          <link
+            rel="stylesheet"
+            href="./magery_files/main0.css"
+            type="text/css"
+          />
+
+          <br />
+          <h4><center>MAGERY</center></h4>
+          <br />
+          <center>
+            <table cellspacing="5">
+              <tbody>
+                <tr>
+                  <td colspan="2" align="left"><b>Trainable by:</b></td>
+                  <td align="left">Mage, Librarian</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left">
+                    <b>Difficulty of training:</b>
+                  </td>
+                  <td align="left">hard</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Better gain:</b></td>
+                  <td align="left">without jewel</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Used Materials:</b></td>
+                  <td align="left">Reagents or Scrolls</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Used Stats:</b></td>
+                  <td align="left">Intelligence</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Used Tools:</b></td>
+                  <td align="left">Spellbook</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Title of the skill:</b></td>
+                  <td align="left">Mage</td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="left"><b>Delay:</b></td>
+                  <td align="left">none</td>
+                </tr>
+              </tbody>
+            </table>
+            <br /><br />
+          </center>
+
+          Magery skill is the most usefull skill in the whole game, mainly used
+          for casting spells such as: Recall, Gate Travel, Protection, Bless ...
+          (there are 64 Spells placed in 8 circles). For casting spells you need
+          a spellbook &amp; scrolls, reagents and mana, mana is an energy which
+          depends on your Intelligence (50 int = 50 mana) every circle takes
+          different amount of mana (from 4 to 50), once you cast a spell and
+          lose your mana, you can regenerate by using
+          <a href="/meditation">Meditation</a> skill, without Meditation skill
+          mana regen very slowly. Scrolls can be found in
+          <a href="/loot">Monster Loot</a> or bought from Scribe NPC and all
+          possible scrolls can be created by
+          <a href="/inscription">Inscription</a> skill. The scrolls have two
+          types of use, first you can just double click the scroll to cast a
+          spell, it doesn't require any reagents, but then your scroll have just
+          one use, after you cast a spell its scroll dissappears. Second way is
+          placing a scroll inside Spellbook and it stays there permanently, you
+          can cast unlimited amount of this spell now, but you need the
+          reagents, you'll find the reagents at NPC Mages, Alchemists or you can
+          harvest them (at least 50%
+          <a href="/lumberjacking">Lumberjacking</a> skill needed). As new
+          player you should buy full spellbook from other players/vendors, it's
+          much easier at the beggining, full spellbook costs about 20k gp, an
+          empty spellbook can be found at Scribe NPC vendor. To make your spells
+          stronger you should have also
+          <a href="/evaluatingint">Evaluating Intelligence</a> skill. And the
+          last part, Magery skill lets craft <a href="/magic">Magic Items</a>,
+          at least 80% of the Magery mixed with
+          <a href="/tinkering">Tinkering</a> lets craft randomly magic jewels
+          and with <a href="/tailoring">Tailoring</a> magic clothes.
+
+          <br /><br /><b>Note:</b> Having more Magery makes your spells
+          stronger, same goes with
+          <a href="/evaluatingint">Evaluating Intelligence</a>.
+
+          <center>
+            <br /><br />
+            <b>Check also:</b><br /><br />
+            <a href="/evaluatingint">Evaluating Intelligence</a><br />
+            <a href="/meditation">Meditation</a><br />
+            <a href="/magicresist">Resisting Spells</a><br />
+            <a href="/inscription">Inscription</a><br />
+            <a href="/magic">Magic Items</a>
+            <br />
+          </center>
+          <br /><br />
+
+          <center>
+            <table cellspacing="15" border="0">
+              <tbody>
+                <tr>
+                  <td align="center" colspan="6"><h4>REAGENTS LIST</h4></td>
+                </tr>
+                <tr>
+                  <td colspan="2" align="center"><b>Name</b></td>
+                  <td align="center"><b>Price at NPC vendor</b></td>
+                  <td align="center"><b>Where to buy/find</b></td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/bm.gif" /></td>
+                  <td align="left">Blood Moss</td>
+                  <td align="center">6gp</td>
+                  <td>NPC Mage,<br /><a href="/loot">Monster Loot</a></td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/bp.gif" /></td>
+                  <td align="left">Black Pearl</td>
+                  <td align="center">6gp</td>
+                  <td>NPC Mage,<br /><a href="/loot">Monster Loot</a></td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/gl.gif" /></td>
+                  <td align="left">Garlic</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage, Alchemists,<br /><a href="/loot">Monster Loot</a
+                    >,<br />Harvesting farmlands
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/gs.gif" /></td>
+                  <td align="left">Ginseng</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage, Alchemists,<br /><a href="/loot">Monster Loot</a
+                    >,<br />Harvesting farmlands
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/mr.gif" /></td>
+                  <td align="left">Mandrake Root</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage,<br /><a href="/loot">Monster Loot</a
+                    >,<br />Harvesting farmlands
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/ns2.gif" /></td>
+                  <td align="left">Nightshade</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage,<br />Alchemists,<br /><a href="/loot"
+                      >Monster Loot</a
+                    >,<br />Harvesting farmlands
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/ss.gif" /></td>
+                  <td align="left">Spider's Silk</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage,<br />Alchemists,<br /><a href="/loot"
+                      >Monster Loot</a
+                    >,<br />by skinning a spider
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/sa.gif" /></td>
+                  <td align="left">Sulphurous Ash</td>
+                  <td align="center">3gp</td>
+                  <td>
+                    NPC Mage,<br /><a href="/loot">Monster Loot</a>,<br />by
+                    skinning a snake
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br />
+
+          <h4><center>LIST OF SPELLS</center></h4>
+          <br />
+          <center>
+            <table cellspacing="10" border="0">
+              <tbody>
+                <tr>
+                  <td colspan="2" align="center"><b>Spell Name</b></td>
+                  <td align="center"><b>Words of Power</b></td>
+                  <td align="center"><b>Minimum Skill</b></td>
+                  <td align="center"><b>Used Reagents</b></td>
+                  <td align="center"><b>Used Mana</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>First Circle:</b>
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/clumsy.gif" /></td>
+                  <td align="left">Clumsy</td>
+                  <td align="center">Uus Jux</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/createfood.gif" /></td>
+                  <td align="left">Create Food</td>
+                  <td align="center">In Mani Ylem</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><img src="./magery_files/mr.gif" />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/feeblemind.gif" /></td>
+                  <td align="left">Feeblemind</td>
+                  <td align="center">Rel Wis</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/ns2.gif" /><img
+                      src="./magery_files/gs.gif"
+                    />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/heal.gif" /></td>
+                  <td align="left">Heal</td>
+                  <td align="center">In Mani</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magicarrow.gif" /></td>
+                  <td align="left">Magic Arrow</td>
+                  <td align="center">In Por Ylem</td>
+                  <td align="center">0.1%</td>
+                  <td align="center"><img src="./magery_files/sa.gif" /></td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/nightsight.gif" /></td>
+                  <td align="left">Night Sight</td>
+                  <td align="center">In Lor</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/reactivearmor.gif" /></td>
+                  <td align="left">Reactive Armor</td>
+                  <td align="center">Flam Sanct</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/ss.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/weaken.gif" /></td>
+                  <td align="left">Weaken</td>
+                  <td align="center">Des Mani</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">4</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Second Circle:</b>
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/agility.gif" /></td>
+                  <td align="left">Agility</td>
+                  <td align="center">Ex Uus</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/cunning.gif" /></td>
+                  <td align="left">Cunning</td>
+                  <td align="center">Uus Wis</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/ns2.gif" /><img
+                      src="./magery_files/mr.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/cure.gif" /></td>
+                  <td align="left">Cure</td>
+                  <td align="center">An Nox</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/harm.gif" /></td>
+                  <td align="left">Harm</td>
+                  <td align="center">An Mani</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/ns2.gif" /><img
+                      src="./magery_files/ss.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magictrap.gif" /></td>
+                  <td align="left">Magic Trap</td>
+                  <td align="center">In Jux</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/ss.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magicuntrap.gif" /></td>
+                  <td align="left">Remove Trap</td>
+                  <td align="center">An Jux</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/protection.gif" /></td>
+                  <td align="left">Protection</td>
+                  <td align="center">Uus Sanct</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/strength.gif" /></td>
+                  <td align="left">Strength</td>
+                  <td align="center">Uus Mani</td>
+                  <td align="center">0.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">6</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Third Circle:</b>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/bless.gif" /></td>
+                  <td align="left">Bless</td>
+                  <td align="center">Rel Sanct</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/gl.gif"
+                    />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/fireball.gif" /></td>
+                  <td align="left">Fireball</td>
+                  <td align="center">Vas Flam</td>
+                  <td align="center">10.1%</td>
+                  <td align="center"><img src="./magery_files/bp.gif" /></td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magiclock.gif" /></td>
+                  <td align="left">Magic Lock</td>
+                  <td align="center">An Por</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/gl.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/poison.gif" /></td>
+                  <td align="left">Poison</td>
+                  <td align="center">In Nox</td>
+                  <td align="center">10.1%</td>
+                  <td align="center"><img src="./magery_files/ns2.gif" /></td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/telekinesis.gif" /></td>
+                  <td align="left">Telekinesis</td>
+                  <td align="center">Ort Por Ylem</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/teleport.gif" /></td>
+                  <td align="left">Teleport</td>
+                  <td align="center">Rel Por</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magicunlock.gif" /></td>
+                  <td align="left">Unlock</td>
+                  <td align="center">Ex Por</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/wallofstone.gif" /></td>
+                  <td align="left">Wall of Stone</td>
+                  <td align="center">In Sanct Ylem</td>
+                  <td align="center">10.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/gl.gif"
+                    />
+                  </td>
+                  <td align="center">9</td>
+                </tr>
+
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Fourth Circle:</b>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/archcure.gif" /></td>
+                  <td align="left">Archcure</td>
+                  <td align="center">Vas An Nox</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><img src="./magery_files/mr.gif" />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/archprotection.gif" /></td>
+                  <td align="left">Archprotection</td>
+                  <td align="center">Vas Uus Sanct</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/curse.gif" /></td>
+                  <td align="left">Curse</td>
+                  <td align="center">Des Sanct</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/firefield.gif" /></td>
+                  <td align="left">Fire Field</td>
+                  <td align="center">In Flam Grav</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/ss.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/greaterheal.gif" /></td>
+                  <td align="left">Greater Heal</td>
+                  <td align="center">In Vas Mani</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/ss.gif"
+                    />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/lightning.gif" /></td>
+                  <td align="left">Lightning</td>
+                  <td align="center">Por Ort Grav</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/manadrain.gif" /></td>
+                  <td align="left">Mana Drain</td>
+                  <td align="center">Ort Rel</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/recall.gif" /></td>
+                  <td align="left">Recall</td>
+                  <td align="center">Kal Ort Por</td>
+                  <td align="center">24.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/bm.gif"
+                    /><img src="./magery_files/mr.gif" />
+                  </td>
+                  <td align="center">11</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Fifth Circle:</b>
+                  </td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/bladespirits.gif" /></td>
+                  <td align="left">Blade Spirits</td>
+                  <td align="center">In Jux Hur Ylem</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ns2.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/dispelfield.gif" /></td>
+                  <td align="left">Dispel Field</td>
+                  <td align="center">An Grav</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/gl.gif"
+                    /><br /><img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/incognito.gif" /></td>
+                  <td align="left">Incognito</td>
+                  <td align="center">Kal In Ex</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/gl.gif"
+                    /><img src="./magery_files/ns2.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/magicreflection.gif" /></td>
+                  <td align="left">Magic Reflection</td>
+                  <td align="center">In Jux Sanct</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/mindblast.gif" /></td>
+                  <td align="left">Mind Blast</td>
+                  <td align="center">Por Corp Wis</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ns2.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/paralyze.gif" /></td>
+                  <td align="left">Paralyze</td>
+                  <td align="center">An Ex Por</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/poisonfield.gif" /></td>
+                  <td align="left">Poison Field</td>
+                  <td align="center">In Nox Grav</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/summoncreature.gif" /></td>
+                  <td align="left">Summon Creature</td>
+                  <td align="center">Kal Xen</td>
+                  <td align="center">38.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">14</td>
+                </tr>
+
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Sixth Circle:</b>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/dispel.gif" /></td>
+                  <td align="left">Dispel</td>
+                  <td align="center">An Ort</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/energybolt.gif" /></td>
+                  <td align="left">Energy Bolt</td>
+                  <td align="center">Corp Por</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/explosion.gif" /></td>
+                  <td align="left">Explosion</td>
+                  <td align="center">Vas Ort Flam</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/invisibility.gif" /></td>
+                  <td align="left">Invisibility</td>
+                  <td align="center">An Lor Xen</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/mark.gif" /></td>
+                  <td align="left">Mark</td>
+                  <td align="center">Kal Por Ylem</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/bm.gif"
+                    /><img src="./magery_files/mr.gif" />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/masscurse.gif" /></td>
+                  <td align="left">Mass Curse</td>
+                  <td align="center">Vas Des Sanct</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/gl.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ns2.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/paralyzefield.gif" /></td>
+                  <td align="left">Paralyze Field</td>
+                  <td align="center">In Ex Grav</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td><img src="./magery_files/reveal.gif" /></td>
+                  <td align="left">Reveal</td>
+                  <td align="center">Wis Quas</td>
+                  <td align="center">52.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">20</td>
+                </tr>
+
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Seventh Circle:</b>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/chainlightning.gif" /></td>
+                  <td align="left">Chain Ligthning</td>
+                  <td align="center">Vas Ort Grav</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/bm.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/energyfield.gif" /></td>
+                  <td align="left">Energy Field</td>
+                  <td align="center">In Sanct Grav</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/flamestrike.gif" /></td>
+                  <td align="left">Flamestrike</td>
+                  <td align="center">Kal Vas Flam</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/gatetravel.gif" /></td>
+                  <td align="left">Gate Travel</td>
+                  <td align="center">Vas Rel Por</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/sa.gif" />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/manavampire.gif" /></td>
+                  <td align="left">Mana Vampire</td>
+                  <td align="center">Ort Sanct</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/bm.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/ss.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/massdispell.gif" /></td>
+                  <td align="left">Mass Dispell</td>
+                  <td align="center">Vas An Ort</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/gl.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/meteorswarm.gif" /></td>
+                  <td align="left">Meteor Swarm</td>
+                  <td align="center">Kal Des Flam Ylem</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/polymorph.gif" /></td>
+                  <td align="left">Polymorph</td>
+                  <td align="center">Vas Ylem Rel</td>
+                  <td align="center">66.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">40</td>
+                </tr>
+
+                <tr>
+                  <td bgcolor="#fff297" align="center" colspan="6">
+                    <b>Eighth:</b>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/earthquake.gif" /></td>
+                  <td align="left">Earthquake</td>
+                  <td align="center">In Vas Por</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/gs.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/energyvortex.gif" /></td>
+                  <td align="left">Energy Vortex</td>
+                  <td align="center">Vas Corp Por</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bp.gif" /><img
+                      src="./magery_files/bm.gif"
+                    /><br /><img src="./magery_files/mr.gif" /><img
+                      src="./magery_files/ns2.gif"
+                    />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/resurrection.gif" /></td>
+                  <td align="left">Resurrection</td>
+                  <td align="center">An Corp</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/gl.gif"
+                    /><img src="./magery_files/gs.gif" />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/summonair.gif" /></td>
+                  <td align="left">Summon Air Elemental</td>
+                  <td align="center">Kal Vas Xen Hur</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/summondemon.gif" /></td>
+                  <td align="left">Summon Daemon</td>
+                  <td align="center">Kal Vas Xen Corp</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/summonearth.gif" /></td>
+                  <td align="left">Summon Earth Elemental</td>
+                  <td align="center">Kal Vas Xen Ylem</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/summonfire.gif" /></td>
+                  <td align="left">Summon Fire Elemental</td>
+                  <td align="center">Kal Vas Xen Flam</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><br /><img src="./magery_files/ss.gif" /><img
+                      src="./magery_files/sa.gif"
+                    />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td><img src="./magery_files/summonwater.gif" /></td>
+                  <td align="left">Summon Water Elemental</td>
+                  <td align="center">Kal Vas Xen An Flam</td>
+                  <td align="center">80.1%</td>
+                  <td align="center">
+                    <img src="./magery_files/bm.gif" /><img
+                      src="./magery_files/mr.gif"
+                    /><img src="./magery_files/ss.gif" />
+                  </td>
+                  <td align="center">50</td>
+                </tr>
+
+                <tr>
+                  <td colspan="5" align="center">
+                    <b>Note:</b> "Minimum Skill" is just theoretic, don't try to
+                    train Magery this way, you're gonna waste 90% of your regs.
+                    This % indicates the ability to cast those spells at all!
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br /><br />
+
+          <h4><center>HOW TO TRAIN</center></h4>
+          <br />
+          <center>
+            <table cellspacing="10">
+              <tbody>
+                <tr>
+                  <td align="left">0-33%</td>
+                  <td align="left">Vendor Train</td>
+                </tr>
+                <tr>
+                  <td align="left">33-50%</td>
+                  <td align="left">Teleport</td>
+                </tr>
+                <tr>
+                  <td align="left">50-60%</td>
+                  <td align="left">Recall</td>
+                </tr>
+                <tr>
+                  <td align="left">60-70%</td>
+                  <td align="left">Incognito</td>
+                </tr>
+                <tr>
+                  <td align="left">70-87%</td>
+                  <td align="left">Reveal</td>
+                </tr>
+                <tr>
+                  <td align="left">87-97%</td>
+                  <td align="left">Polymorph</td>
+                </tr>
+                <tr>
+                  <td align="left">97-100%</td>
+                  <td align="left">Resurrection</td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br />
+          <center>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="2">
+                    This is the best way of training, if you are training only
+                    Magery and you don't need
+                    <a href="/magicresist">Resisting Spells</a> or
+                    <a href="/healing">Healing</a>
+                    skills, the spells will not hurt you, so there is no need to
+                    heal. If you're looking for guide how to train Magery and
+                    Resisting Spells together, check
+                    <a href="/magicresist">Resisting Spells</a> section.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br />
+          <h4><center>ALTERNATIVE WAY</center></h4>
+          <br />
+          <center>
+            <table cellspacing="10">
+              <tbody>
+                <tr>
+                  <td align="left">0-33%</td>
+                  <td align="left">Vendor Train</td>
+                </tr>
+                <tr>
+                  <td align="left">33-50%</td>
+                  <td align="left">Any Spell from Third Circle</td>
+                </tr>
+                <tr>
+                  <td align="left">50-60%</td>
+                  <td align="left">Any Spell from Fourth Circle</td>
+                </tr>
+                <tr>
+                  <td align="left">60-70%</td>
+                  <td align="left">Any Spell from Fifth Circle</td>
+                </tr>
+                <tr>
+                  <td align="left">70-87%</td>
+                  <td align="left">Any Spell from Sixth Circle</td>
+                </tr>
+                <tr>
+                  <td align="left">87-97%</td>
+                  <td align="left">Any Spell from Seventh Circle</td>
+                </tr>
+                <tr>
+                  <td align="left">97-100%</td>
+                  <td align="left">Any Spell from Eighth Circle</td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+
+          <br />
+          <center>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="2">
+                    <b>Warning: </b>Don't cast area/summon spells such as: Fire
+                    Field, Blade Spirits, Poison Field, Mass Curse, Chain
+                    Lightning, Mass Dispell, Meteor Swarm, Earthquake, Energy
+                    Vortex in guarded areas - these spells may target anyone
+                    around you and make you "criminal".
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br />
+          <br />
+          <center>
+            <a href="javascript:history.back()">Back</a>
+          </center>
+        </div>
+        <!-- End Content Column -->
+
+        <!-- Begin Right Column -->
+        <div id="right">
+          <div id="ddblack" class="menutitle"><center>OTHER</center></div>
+          <br />
+
+          <a href="#"
+            ><img alt="Spanish" border="0" src="./magery_files/spain1.gif"
+          /></a>
+          <img alt="English" border="0" src="./magery_files/uk1.gif" />
+          <a href="#"
+            ><img alt="Polish" border="0" src="./magery_files/pol1.gif" /></a
+          ><br />
+
+          <a href="mailto:tom@tomlima.me"
+            ><img alt="send email" border="0" src="./magery_files/mail.png"
+          /></a>
+          <script type="text/javascript">
+            // <![CDATA[
+            var adres = 'www.neverlands-library.com'
+            var tytul = 'Neverlands Library'
+            var ulubione =
+              '<img alt="add to favorites" border="0" src="fav.png"/>'
+            var startowa =
+              '<img alt="set as start page" border="0" src="home.png"/>'
+            var szablon = '{ULUBIONE}{STARTOWA}'
+
+            if (adres.toLowerCase().indexOf('http://') != 0)
+              adres = 'http://' + adres
+            var przegladarka = navigator.userAgent
+            var ie_ver = 0
+            if (
+              przegladarka.indexOf('MSIE') != -1 &&
+              przegladarka.indexOf(') ') == -1
+            )
+              ie_ver = parseInt(
+                przegladarka.substring(przegladarka.indexOf('MSIE') + 5)
+              )
+            if (ie_ver >= 4)
+              document.write(
+                szablon
+                  .replace(
+                    /\{ULUBIONE\}/,
+                    '<a href="javascript:void(0)" title="Dodaj stron� do ulubionych" onclick="window.external.addFavorite(\'' +
+                      adres +
+                      "', '" +
+                      tytul +
+                      '\'); return false" onmouseover="window.status=\'Dodaj stron� do ulubionych\'; return true" onmouseout="window.status=\'\'; return true">' +
+                      ulubione +
+                      '<' +
+                      '/a>'
+                  )
+                  .replace(
+                    /\{STARTOWA\}/,
+                    '<a href="javascript:void(0)" title="Ustaw stron� jako startow�" onclick="this.style.behavior=\'url(#default#homepage)\'; this.setHomePage(\'' +
+                      adres +
+                      '\'); return false" onmouseover="window.status=\'Ustaw stron� jako startow�\'; return true" onmouseout="window.status=\'\'; return true">' +
+                      startowa +
+                      '<' +
+                      '/a>'
+                  )
+              )
+            // ]]>
+          </script>
+          <br />
+
+          <br />
+          <center><h5>Random Screenshot</h5></center>
+          <br />
+          <script>
+            // <![CDATA[
+            Array.prototype.random = function (limit) {
+              if (typeof limit == 'undefined' || limit < 0) limit = 1
+              else if (!limit) limit = this.length
+              for (
+                var i = 0,
+                  source = this,
+                  target = new Array(),
+                  n = source.length;
+                i < limit && n > 0;
+                i++
+              ) {
+                do {
+                  var index = Math.random()
+                } while (index == 1)
+                index = Math.floor(index * n)
+                target.push(source[index])
+                source[index] = source[--n]
+              }
+              return target
+            }
+
+            document.write(
+              new Array(
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/despise6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/despise60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/destard6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/destard60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand1.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand2.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand3.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand4.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand5.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/championspawn/brigand6.jpg"><img border="0" src="../../../../gfx/gallery/championspawn/brigand60.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/astral.jpg"><img border="0" src="../../../../gfx/gallery/houses/astral0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/bear.jpg"><img border="0" src="../../../../gfx/gallery/houses/bear0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/cubo.jpg"><img border="0" src="../../../../gfx/gallery/houses/cubo0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/decapitator.jpg"><img border="0" src="../../../../gfx/gallery/houses/decapitator0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/brickbasementex.jpg"><img border="0" src="../../../../gfx/gallery/houses/brickbasementex0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/kalan.jpg"><img border="0" src="../../../../gfx/gallery/houses/kalan0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/pharoxx.jpg"><img border="0" src="../../../../gfx/gallery/houses/pharoxx0.jpg"/></a>',
+                '<a target="blank" href="../../../../gfx/gallery/houses/sherox.jpg"><img border="0" src="../../../../gfx/gallery/houses/sherox0.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/7vs7/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/7vs7/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/15vs15/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/15vs15/tournament5-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament1-7.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament1-70.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-1.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-2.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-3.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-4.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-5.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/siege/tournament6-6.jpg"><img border="0" src="../../../../gfx/gallery/siege/tournament6-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf1.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf2.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf3.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf4.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf5.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ctf/ctf6.jpg"><img border="0" src="../../../../gfx/gallery/ctf/ctf60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-1.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-2.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-3.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-4.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-5.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/ffa/ffa2-6.jpg"><img border="0" src="../../../../gfx/gallery/ffa/ffa2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm1.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm2.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm3.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm4.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm5.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm6.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm11.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm110.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm12.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm120.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm13.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm130.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm14.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm140.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm15.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm150.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm16.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm160.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm17.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm170.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm18.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm180.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm19.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm190.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvm/pvm9.jpg"><img border="0" src="../../../../gfx/gallery/pvm/pvm90.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting1.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting2.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting3.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting4.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting5.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting7.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting70.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting8.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting80.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting9.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting90.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting11.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting110.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting12.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting120.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting13.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting130.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/thunting/thunting14.jpg"><img border="0" src="../../../../gfx/gallery/thunting/thunting140.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp1.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp2.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp3.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp4.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp24.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp240.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp6.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp11.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp110.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp12.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp120.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp13.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp130.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp14.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp140.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp15.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp150.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp16.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp160.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp17.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp170.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp18.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp180.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp19.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp190.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp9.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp90.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp21.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp210.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp22.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp220.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp25.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp250.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp26.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp260.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp27.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp270.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp28.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp280.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp29.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp290.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/pvp/pvp31.jpg"><img border="0" src="../../../../gfx/gallery/pvp/pvp310.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest2-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest3-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest4-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest4-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-1.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-2.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-3.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-5.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-6.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/quest/quest5-4.jpg"><img border="0" src="../../../../gfx/gallery/quest/quest5-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess1.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess2.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess3.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess4.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess5.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/chess/chess6.jpg"><img border="0" src="../../../../gfx/gallery/chess/chess60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-1.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-2.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-3.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-4.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-5.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/yanik/quest1-6.jpg"><img border="0" src="../../../../gfx/gallery/yanik/quest1-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w1.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w2.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w3.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w4.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w5.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/wedding/w6.jpg"><img border="0" src="../../../../gfx/gallery/wedding/w60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape2.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape4.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape6.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape7.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape70.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape8.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape80.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/escape/escape9.jpg"><img border="0" src="../../../../gfx/gallery/escape/escape90.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament1-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-7.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-70.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament2-8.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament2-80.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament4-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-1.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-2.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-3.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-4.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-5.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/1vs1/tournament5-6.jpg"><img border="0" src="../../../../gfx/gallery/1vs1/tournament5-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament1-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament3-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-1.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-2.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-3.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-4.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-5.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/2vs2/tournament4-6.jpg"><img border="0" src="../../../../gfx/gallery/2vs2/tournament4-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament1-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament1-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/tournament2-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/tournament2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-1.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-2.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-3.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-4.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-5.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/guild/guild3-6.jpg"><img border="0" src="../../../../gfx/gallery/guild/guild3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/tournament3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/tournament3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player1-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player1-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player2-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player2-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-4.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-40.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-5.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-50.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player3-6.jpg"><img border="0" src="../../../../gfx/gallery/player/player3-60.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-1.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-2.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/player/player4-3.jpg"><img border="0" src="../../../../gfx/gallery/player/player4-30.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle1.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle10.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle20.jpg"/></a>',
+                '<a border="0" target="blank" href="../../../../gfx/gallery/houses/gcastle2dol.jpg"><img border="0" src="../../../../gfx/gallery/houses/gcastle2dol0.jpg"/></a>'
+              )
+                .random()
+                .join('')
+            )
+            // ]]>
+          </script>
+          <a
+            border="0"
+            target="blank"
+            href="about:blank../../../../gfx/gallery/championspawn/destard2.jpg"
+          ></a>
+          <br /><br />
+          <center><h5>Hot Links</h5></center>
+          <br />
+
+          <a
+            target="_blank"
+            href="http://www.gtop100.com/in.php?site=39985"
+            title="Top 100 Ultima Online sites"
+          >
+            <img
+              src="./magery_files/votebutton.jpg"
+              alt="Top 100 Ultima Online sites"
+            />
+          </a>
+          <br />
+
+          <br />
+
+          <center>
+            <table>
+              <tbody>
+                <tr>
+                  <td align="center">
+                    <h5>Hot Links</h5>
+                    <br />
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <a
+                      href="http://neverlands-library.com/download/neverlands_reborn_2.5.exe"
+                      ><b>NL Reborn Pack</b></a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <a href="http://neverlands-library.com/download/uoloop.exe"
+                      >UO Loop</a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <a
+                      href="http://neverlands-library.com/download/desktops/dwarf_desktop_v1.2.zip"
+                      >Dwarf Desktop</a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <a href="http://neverlands-library.com/download/uoam.rar"
+                      >Automap</a
+                    >
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </center>
+          <br /><br />
+        </div>
+        <!-- End Faux Columns -->
+
+        <!-- Begin Footer -->
+        <div id="footer">
+          <center>
+            Project and design by Mazi Copyright 2008. All rights reserved.
+          </center>
+        </div>
+        <!-- End Footer -->
+      </div>
+      <!-- End Wrapper -->
+    </div>
+  </body>
+</html>
